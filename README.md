@@ -14,7 +14,7 @@
 
 **KcBERT-large**
 
-![alt text](image.png)
+![alt text](./images/image-5.png)
 
 #### Hyperparameter
 
@@ -28,7 +28,7 @@ greater_is_better=True
 
 #### Leaderboard
 
-![alt text](image-1.png)
+![alt text](./images/image-1.png)
 
 ## 확신성 추론 <a href="https://kli.korean.go.kr/benchmark/taskOrdtm/taskList.do?taskOrdtmId=59&clCd=ING_TASK&subMenuId=sub01" target="_blank">🔗</a>
 
@@ -46,7 +46,7 @@ greater_is_better=True
 
 **ko-sbert-multitask**
 
-![alt text](image-2.png)
+![alt text](./images/image-2.png)
 
 #### Hyperparameter
 
@@ -60,7 +60,7 @@ metric_for_best_model="mse",
 
 #### Leaderboard
 
-![alt text](image-3.png)
+![alt text](./images/image-3.png)
 
 ## 혐오 발언 탐지 <a href="https://kli.korean.go.kr/benchmark/taskOrdtm/taskList.do?taskOrdtmId=56&clCd=ING_TASK&subMenuId=sub01" target="_blank">🔗</a>
 
@@ -72,7 +72,7 @@ metric_for_best_model="mse",
 
 **kcbert-large-finetuned-nsmc**
 
-![alt text](image-2.png)
+![alt text](./images/image.png)
 
 #### Hyperparameter
 
@@ -86,4 +86,4 @@ metric_for_best_model="f1",
 
 #### Leaderboard
 
-![alt text](image-4.png)
+![alt text](./images/image-4.png)
