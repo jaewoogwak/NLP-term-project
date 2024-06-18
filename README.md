@@ -8,7 +8,7 @@
 
 부적절성 문장에 대한 태도 탐지 과제는 부적절하게 표현된 문장 표현의 문맥상 긍정적 또는 부정적 태도를 판단하는 작업이다. 자연어 처리에서는 상식 추론(Commonsense reasoning), 자연어 추론(NLI), 위노그래드 스키마 챌린지(Winograd schema challenge) 등에서 텍스트의 숨겨진 의미를 파악하는 능력을 검증한 사례가 있었으나, 부적절 표현을 대상으로 한 과제는 이전에 존재하지 않았다. 따라서 이 과제는 학술적으로도 의미가 크며, 기계의 추론 능력 확장에 기여하는 바 역시 클 것으로 예상한다. 부적절 표현 맥락에서의 태도 판단은 향후 온라인 플랫폼의 콘텐츠를 감시하거나 댓글 필터링 등 다양한 분야에서 응용될 수 있다는 점에서 의의가 있다.
 
-[학습 및 평가 코드]()
+[학습 및 평가 코드](https://github.com/jaewoogwak/nlp-term-project/blob/master/attitude-detection-for-inappropriate/run.ipynb)
 
 ### Model
 
@@ -40,7 +40,7 @@ greater_is_better=True
 | Prompt      | 청교도 정신은 계급 구조나 경제 운동 위에 있는 시시한 것에 불과하다                                                                                                                                                                                                                                                                           |
 | 확신성 점수 | 1.625                                                                                                                                                                                                                                                                                                                                        |
 
-[학습 및 평가 코드]()
+[학습 및 평가 코드](https://github.com/jaewoogwak/nlp-term-project/blob/master/certainty-inference/run.ipynb)
 
 ### Model
 
@@ -66,7 +66,7 @@ metric_for_best_model="mse",
 
 자연어처리 분야에서 혐오 발언 탐지(Hate Speech Detection) 과제는 주어진 문장이 혐오(hate) 표현이나 공격적(offensive) 표현에 해당하는지 아닌지를 분류하는 과제이다. 최근 소셜미디어 등의 콘텐츠가 급속히 증가함에 따라 혐오 표현 탐지에 관한 연구가 활발하게 이루어지고 있으며, 기술개발 및 상용화의 수요도 증가하고 있다. 영어의 Kaggle의 Hate Speech and Offensive Language Dataset, HateXplain 데이터 세트가 대표적이며, 텍스트(문장 혹은 문서)가 혐오 표현인지, 공격적 표현인지, 혹은 혐오나 공격적 표현이 아닌 문장인지를 구분하는 과업으로 정의되어 있다.
 
-[학습 및 평가 코드]()
+[학습 및 평가 코드](https://github.com/jaewoogwak/nlp-term-project/blob/master/hate-speech-detection/run.ipynb)
 
 ### Model
 
