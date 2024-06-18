@@ -1,6 +1,6 @@
-# CSE541: Natuarl Language Processing and Practice Term project
+# Natuarl Language Processing and Practice Term project
 
-2024년 1학기 자연어처리및실습 텀 프로젝트
+2024년 1학기 자연어처리및실습(CSE541) 텀 프로젝트
 
 <a href="https://kli.korean.go.kr/benchmark/home.do" target="_blank">국립국어원 인공지능(AI) 말평</a> 과제 수행을 기록한 저장소입니다.
 
