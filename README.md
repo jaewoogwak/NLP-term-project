@@ -1,4 +1,4 @@
-# Natuarl Language Processing and Practice Term project
+# Natural Language Processing and Practice Term project
 
 2024년 1학기 자연어처리및실습(CSE541) 텀 프로젝트
 
