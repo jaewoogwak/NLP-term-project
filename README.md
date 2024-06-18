@@ -2,7 +2,7 @@
 
 2024년 1학기 자연어처리및실습 텀 프로젝트
 
-국립국어원 인공지능(AI) 말평 과제 수행을 기록한 저장소입니다.
+<a href="https://kli.korean.go.kr/benchmark/home.do" target="_blank">국립국어원 인공지능(AI) 말평</a> 과제 수행을 기록한 저장소입니다.
 
 ## 부적절성 문장에 대한 태도 탐지 <a href="https://kli.korean.go.kr/benchmark/taskOrdtm/taskList.do?taskOrdtmId=108&clCd=ING_TASK&subMenuId=sub01" target="_blank">🔗</a>
 
